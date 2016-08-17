@@ -1,0 +1,20 @@
+{
+  "name": "fulltiltdota-server",
+  "version": "0.1.0",
+  "description": "free dota 2 betting site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dota",
+    "dota2",
+    "bet",
+    "gamble",
+    "free",
+    "play",
+    "money"
+  ],
+  "author": "Elohim Seeker",
+  "license": "MIT"
+}
